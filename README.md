@@ -16,9 +16,11 @@
 ```javascript
 const Amin = {
   
-  likes: [coding, learning, traveling],
-  fav foods: [🥞, 🍝 , 🍕],
-  favourtie media: {
+  everydayActivities: [coding, learning, coffee],
+  favFoods: [🥞, 🍜, 🍕],
+  favourtieThings: {
+                        travelling: ["dubai", "morocco"],
+                        Hobbies: ["gym","badminton","lego"],
                         tv_series: "breaking bad",
                         comics: "batman",
                         manga: "pluto"
