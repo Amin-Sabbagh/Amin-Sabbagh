@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/amin-sabbagh-761548144/">
-  <img align="left" alt="Amin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=71517831&left_color=purple&right_color=red)
