@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Amin Sabbagh &nbsp <img src="https://c.tenor.com/qdwKeropqtsAAAAM/sonic-sonic-the-hedgehog.gif" width="40"></h1>
+<h1> Hello there! I'm Amin Sabbagh &nbsp </h1>
 
 
 <a href="https://www.linkedin.com/in/amin-sabbagh-761548144/">
