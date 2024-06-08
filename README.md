@@ -10,7 +10,7 @@
 ## Graduate Software Engineer
   
  - Graduated at <a href="https://www.mmu.ac.uk/">Manchester Metropolitan University</a></li> 2024
- - 
+
 <br>
 
 ```javascript
